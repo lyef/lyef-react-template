@@ -70,4 +70,4 @@ This project also uses [Husky](https://github.com/typicode/husky) to prevent pus
 * `npm run lint:fix`: fix some lint errors.
 
 
-### [<-- Back](https://github.com/lyef/<%= appName %>)
+### [<-- Back](https://github.com/<%= authorName %>/<%= appName %>)

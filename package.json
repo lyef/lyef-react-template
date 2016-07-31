@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lyef/<%= appName %>.git"
+    "url": "git+ssh://git@github.com/<%= authorName %>/<%= appName %>.git"
   },
   "keywords": [
     "react",
@@ -36,7 +36,8 @@
     "es6",
     "storybook",
     "babel",
-    "webpack"
+    "webpack",
+    "<%= appName %>"
   ],
   "author": "<%= authorName %>",
   "license": "MIT",

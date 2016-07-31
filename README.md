@@ -1,11 +1,11 @@
 # <%= appNameHumanized %>
-[![Build Status](https://travis-ci.org/lyef/<%= appName %>.svg?branch=master)](https://travis-ci.org/lyef/<%= appName %>)
-![Badge size](https://badge-size.herokuapp.com/lyef/<%= appName %>/master/dist/Main.min.js.svg)
-![Badge gzip size](https://badge-size.herokuapp.com/lyef/<%= appName %>/master/dist/Main.min.js.svg?compression=gzip)
+[![Build Status](https://travis-ci.org/<%= authorName %>/<%= appName %>.svg?branch=master)](https://travis-ci.org/<%= authorName %>/<%= appName %>)
+![Badge size](https://badge-size.herokuapp.com/<%= authorName %>/<%= appName %>/master/dist/Main.min.js.svg)
+![Badge gzip size](https://badge-size.herokuapp.com/<%= authorName %>/<%= appName %>/master/dist/Main.min.js.svg?compression=gzip)
 
 ## Demo
 
-[Live examples](https://lyef.github.io/<%= appName %>)
+[Live examples](https://<%= authorName %>.github.io/<%= appName %>)
 
 ## Installation
 
@@ -41,8 +41,8 @@ We've developed this component using the following boilerplate:
 [lyef-react-component](https://github.com/lyef/lyef-react-component).
 
 To know more about the architecture or if you want to contribute with this component:
-[Contributing Documentation](https://github.com/lyef/<%= appName %>/blob/master/CONTRIBUTING.md).
+[Contributing Documentation](https://github.com/<%= authorName %>/<%= appName %>/blob/master/CONTRIBUTING.md).
 
 ## License
 
-[MIT License](https://github.com/lyef/<%= appName %>/blob/master/LICENSE.md) @ [lyef](https://lyef.github.io/)
+[MIT License](https://github.com/<%= authorName %>/<%= appName %>/blob/master/LICENSE.md) @ [<%= authorName %>](https://<%= authorName %>.github.io/)

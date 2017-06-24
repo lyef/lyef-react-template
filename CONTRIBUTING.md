@@ -24,7 +24,6 @@
 │   └── Main.js
 ├── storybook
 │   ├── config.js
-│   └── webpack.config.js
 ├── tests
 │   ├── helpers
 │   │   └── setup.js
